@@ -1,0 +1,8 @@
+#baseURL = "http://example.org/"
+baseURL = "https://jeantapia94.github.io/static_website/"
+#baseURL = "http://localhost/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
+publishDir = "docs" 
+
